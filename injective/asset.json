@@ -885,6 +885,16 @@
     "icon": "https://pbs.twimg.com/profile_images/1736710983609925632/fxrk9SXX_400x400.jpg"
   },
   {
+    "id": "factory/inj144nw6ny28mlwuvhfnh7sv4fcmuxnpjx4pksr0j/boo",
+    "name": "INJECTIVE PANDA",
+    "symbol": "BAMBOO",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "circ_supply": "65000000",
+    "total_supply": "1000000000",
+    "icon": "https://i.ibb.co/pZ7Yysd/panda.png"
+  },
+  {
     "id": "peggy0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
     "name": "SNX",
     "symbol": "SNX",
